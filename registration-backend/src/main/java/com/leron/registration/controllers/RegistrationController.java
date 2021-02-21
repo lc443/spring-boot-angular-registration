@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 @RestController //Controller returns a view (html) vs RestController returns response in form of JSON or Xml.
 // If we use Controller we have to add ResponseBody in our method
 @RequestMapping
+@CrossOrigin(origins = "http://localhost:4200")
 public class RegistrationController {
 
     @Autowired
