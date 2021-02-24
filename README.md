@@ -1,6 +1,6 @@
 # spring-boot-angular-registration
 
-Project created to allow user to register by sending credentials to in memory database.
+Project created to allow user to register by sending credentials to in memory or postgres database.
 - Allows user to create account
 - Allows user to login using previously created credentials
 
