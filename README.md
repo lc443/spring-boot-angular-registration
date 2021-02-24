@@ -2,7 +2,7 @@
 
 Project created to allow user to register by sending credentials to in memory database.
 - Allows user to create account
-- Allows user to login using previously created credialts
+- Allows user to login using previously created credentials
 
 
 ## Technologies Used 
